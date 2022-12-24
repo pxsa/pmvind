@@ -31,6 +31,6 @@ for i in range(1, m):
 
 CTS[0] = Merge(CTS[m-1], T[m-i])
 ```
-This is the main part of the algorithm which begins the story. Don't worry if you don't understand even a little bit, it will get easier soon. For imputating missing values in dataset we use `KNNI` with some tricks. As you can see we devide the dataset into two different parts:
+This is the main part of the algorithm that is the beginning of the story. Don't worry if you don't understand even a little bit, it will get easier soon. For imputating missing values in dataset we use `KNNI` with some tricks. As you can see we devide the dataset into two different parts:
 - CT  (complete tuples)
 - ICT (Incomplete tuples)
