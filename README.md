@@ -7,7 +7,7 @@
 - [Content](#Content)
 - [Chapter 1](#Chapter-1)
   - [The problem of missing values](#The-problem-of-missing-values)
-  - [Mechanisms of missing values](#TMechanisms-of-missing-values)
+  - [Mechanisms of missing values](#Mechanisms-of-missing-values)
 - [Chapter 2](#Chapter_2)
   - [Simple Mechanisms](#Simple-Mechanisms)
     - [Delete](#Delete)
